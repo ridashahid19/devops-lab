@@ -1,3 +1,5 @@
-# Build pipeline
+# devops-pipeline
 
-See the Makefile.
+Renders the course Markdown sources into HTML pages.
+
+Usage: devops-build SOURCE.md DEST.html
