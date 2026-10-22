@@ -1,5 +1,5 @@
 {
-  "name": "devops-pipeline",
+  "name": "@ridashahid19/devops-pipeline",
   "version": "1.1.0",
   "description": "Renders the course Markdown sources into HTML pages.",
   "main": "tools/build.js",
@@ -22,5 +22,12 @@
   "files": [
     "tools/",
     "README.md"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ridashahid19/devops-lab.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
 }
