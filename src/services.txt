@@ -1,3 +1,0 @@
-payment-service
-auth-service
-cart-service
